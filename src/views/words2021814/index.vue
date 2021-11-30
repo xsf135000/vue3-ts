@@ -173,8 +173,7 @@ div {
     width: 20rem;
     height: 25rem;
     overflow: hidden;
-    margin: 5rem auto;
-    margin-top: 0;
+    margin: 0 auto 5rem auto;
     box-shadow: 0px 0px 4px #ececec;
     .img-dom {
       width: 5rem;
@@ -200,7 +199,7 @@ div {
   .word-text {
     width: 20rem;
     height: 25rem;
-    margin: 5rem auto;
+    margin: 0 auto 5rem auto;
     display: flex;
     align-items: center;
     justify-content: center;
